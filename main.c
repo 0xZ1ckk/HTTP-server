@@ -1,3 +1,5 @@
-int main(void){
+#include "router.c"
 
+int main(){
+  setupSocket();
 }
